@@ -1,4 +1,4 @@
-Contains power bi report having dashboard pages containing:
+Consists below dashboard pages in the report:
 - Executive Summary
 - Customer Analysis
 - Sales Analysis
