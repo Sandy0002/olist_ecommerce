@@ -88,7 +88,7 @@ The objective of this project is to analyze customer behavior, sales performance
 
 ## Analytical Model
 * The below image is the schema diagram that has been used for modelling relationships with tables and building reports.
-![Schema Diagram](docs/schema_diag.png)
+![Schema Diagram](documentations/schema_diag.png)
 
 
 ## Key KPIs
